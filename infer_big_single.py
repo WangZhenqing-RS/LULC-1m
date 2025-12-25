@@ -2,7 +2,7 @@
 """
 Created on Wed Jan  4 22:55:38 2023
 
-@author: DELL
+@author: wangzhenqing
 """
 
 import os
